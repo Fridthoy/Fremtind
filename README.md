@@ -2,7 +2,7 @@
  
 ## oppgve 1 ##
 
-![alt text](https://github.com/Fridthoy/Fremtind/tree/master/pictures/klassediagram.png)
+![alt text](https://github.com/Fridthoy/Fremtind/blob/master/pictures/klassediagram.png)
 
 
 over ser er klassediagrammet
