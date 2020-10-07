@@ -55,7 +55,7 @@ Man kan se på 4 grupper for å skape en universiell utformet applikasjon
     - Ulike plattformen må ha samme kvalitet (IOS/Android). 
     
 
-## oppgve 3 :traffic_light: ##
+## oppgve 3 :car: ##
 
 Funkjsonene som mobil-appliksjon hadde vil naturligvis ikke være nødvending å ha i en web-appliksjon.
 (Ikke veldig normalt å kjøre bil med PC-en sin). Derfor kan man fjerne mange funsjoneliteter 
